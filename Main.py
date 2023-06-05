@@ -30,7 +30,7 @@ def generate_image():
 
     # Load the ship template image
 
-    ship_image = Image.open('ship_template.png')
+    ship_image = Image.open('20230605_012021.png')
 
     # Resize the user avatar images to fit in the designated area
 
